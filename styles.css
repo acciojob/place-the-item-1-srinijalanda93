@@ -1,2 +1,28 @@
-
-/* Your CSS Code here. */
+.holder{
+    background-color: aqua;
+    width:100vw;
+    height:50vh;
+    display:flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+.item1{
+    width:100px;
+    height:100px;
+    background-color:bisque;
+}
+.item2{
+    width:100px;
+    height:100px;
+    background-color:rgb(196, 211, 255);
+}
+.item3{
+    width:100px;
+    height:100px;
+    background-color:rgb(244, 151, 224);
+}
+.item4{
+    width:100px;
+    height:100px;
+    background-color:rgb(244, 151, 224);
+}
